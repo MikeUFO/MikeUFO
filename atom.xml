@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[UFOdev]]></title>
-  <link href="http://MikeUFO.github.com/MikeUFO/atom.xml" rel="self"/>
-  <link href="http://MikeUFO.github.com/MikeUFO/"/>
-  <updated>2012-04-25T10:10:25-04:00</updated>
-  <id>http://MikeUFO.github.com/MikeUFO/</id>
+  <link href="http://ufodev.co/atom.xml" rel="self"/>
+  <link href="http://ufodev.co/"/>
+  <updated>2012-04-25T15:12:47-04:00</updated>
+  <id>http://ufodev.co/</id>
   <author>
     <name><![CDATA[MikeUFO]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Blog Test]]></title>
-    <link href="http://MikeUFO.github.com/MikeUFO/blog/2012/04/12/blog-test/"/>
+    <link href="http://ufodev.co/blog/2012/04/12/blog-test/"/>
     <updated>2012-04-12T15:09:00-04:00</updated>
-    <id>http://MikeUFO.github.com/MikeUFO/blog/2012/04/12/blog-test</id>
+    <id>http://ufodev.co/blog/2012/04/12/blog-test</id>
     <content type="html"><![CDATA[<p><strong>This is only a test</strong>
 This a test to see if I got it right this time</p>
 ]]></content>
