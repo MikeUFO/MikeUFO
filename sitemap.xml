@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://MikeUFO.github.com/MikeUFO/blog/2012/04/12/blog-test/</loc>
+        <lastmod>2012-04-25T10:09:39-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://MikeUFO.github.com/MikeUFO/blog/archives/</loc>
-        <lastmod>2012-04-12T14:16:14-04:00</lastmod>
+        <lastmod>2012-04-25T10:09:39-04:00</lastmod>
     </url>
     <url>
         <loc>http://MikeUFO.github.com/MikeUFO/</loc>
-        <lastmod>2012-04-12T14:16:14-04:00</lastmod>
+        <lastmod>2012-04-25T10:09:39-04:00</lastmod>
     </url>
 </urlset>
