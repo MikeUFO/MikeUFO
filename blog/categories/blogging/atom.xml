@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: blogging | UFOdev]]></title>
+  <link href="http://MikeUFO.github.com/MikeUFO/blog/categories/blogging/atom.xml" rel="self"/>
+  <link href="http://MikeUFO.github.com/MikeUFO/"/>
+  <updated>2012-05-01T09:51:52-04:00</updated>
+  <id>http://MikeUFO.github.com/MikeUFO/</id>
+  <author>
+    <name><![CDATA[MikeUFO]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Octopressing]]></title>
+    <link href="http://MikeUFO.github.com/MikeUFO/blog/2012/05/01/octopressing/"/>
+    <updated>2012-05-01T09:15:00-04:00</updated>
+    <id>http://MikeUFO.github.com/MikeUFO/blog/2012/05/01/octopressing</id>
+    <content type="html"><![CDATA[<h2>Welcome</h2>
+
+<p>Welcome to UFOdev! My blog is finally online after many, many months of messing around and getting distracted. This time around I knew I had to get it done or it wasn't going to ever be done. All Mary Lou in '84 on y'all, I came through in the clutch and got this mofo up and going.  Now...only 1000 more things to go.<!-- more --></p>
+
+<h2>Another Blog? WTF!</h2>
+
+<p>I know, I know the world wants another blog like I want to be eaten by lions. This is just one more blog among the kazillions of them already online, but this one happens to belong to me. That probably makes you care even less, but I won't let that stop me from adding to the blog count. Still, drop in once in a while and see what's here. Maybe you'll find something that you can rant and rave for. This is a mostly PG blog about the things I'm interested in: Arsenal, code, and technology. Mostly code and technology, but posts about AFC will come up every now and again. When Arsenal lose, the rating on this blog will most certainly go to R. If you have any suggestions for things you want to see. Let me know about it.</p>
+
+<h2>'Pressing It</h2>
+
+<p>If you haven't noticed already I'm using Octopress for this blog and hosting it at my github repo, just like all the kool kidz. And guess what? This shit is pretty fucking sweet! I've always wanted to give Octopress a try and now that I have, it looks like I'm going to stick with it, for a while at least. The other good thing about using Octopress is that I get to play around with some ruby code which is always nice. I started learning Ruby and Rails about a year ago and now that I know a little bit, I like digging into projects and looking through the code. I don't get to do a lot of Ruby or GIT on my day job, so this makes it easy for me to have something I can hack on and keep learning. The Octopress setup is pretty straight forward and I highly recommend it for anyone that wants a blog or just a static website. It's also a good way to get started with GIT and GIThub if you've been thinking about it.</p>
+
+<p>Well enough for introductions. Once again welcome! It's a celebration, enjoy yourself!</p>
+]]></content>
+  </entry>
+  
+</feed>
