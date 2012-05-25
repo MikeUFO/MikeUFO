@@ -9,8 +9,8 @@
   <meta name="author" content="MikeUFO">
 
   
-  <meta name="description" content=" Blog Archive 2012 Octopressing
-May 01 2012 posted in blogging, octopress Recent Posts Octopressing ">
+  <meta name="description" content="Blog Archive 2012 Octopressing
+May 01 2012 posted in blogging, octopress Recent Posts Octopressing GitHub Repos Status updating... @MikeUFO on &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -130,6 +130,35 @@ May 01 2012 posted in blogging, octopress Recent Posts Octopressing ">
       </li>
     
   </ul>
+</section>
+
+<section class="well">
+  <ul id="gh_repos" class="nav">
+    <li class="nav-header">GitHub Repos</li>
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/MikeUFO">@MikeUFO</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'MikeUFO',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 
